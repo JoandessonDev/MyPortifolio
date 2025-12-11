@@ -32,7 +32,7 @@ const Footer = () => {
             transition={{ duration: 0.5 }}
             className="text-center md:text-left"
           >
-            <span className="text-2xl font-bold text-gradient">{"<Dev />"}</span>
+            <span className="text-2xl font-bold text-gradient">{"<JoandessonDev />"}</span>
             <p className="text-sm text-muted-foreground mt-2">
               Desenvolvedor Full Stack
             </p>
@@ -83,8 +83,7 @@ const Footer = () => {
           className="text-center"
         >
           <p className="text-sm text-muted-foreground flex items-center justify-center gap-1">
-            © {currentYear} • Feito com{" "}
-            <Heart className="w-4 h-4 text-destructive fill-destructive" /> por{" "}
+            © {currentYear} • Feito por{" "}
             <span className="text-foreground font-medium">Joandesson Santos</span>
           </p>
         </motion.div>

@@ -55,7 +55,7 @@ const Navbar = () => {
               }}
               className="text-xl md:text-2xl font-bold text-gradient"
             >
-              {"<Dev />"}
+              {"<JoandessonDev />"}
             </a>
 
             {/* Desktop Navigation */}
